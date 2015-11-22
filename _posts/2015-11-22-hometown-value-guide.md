@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Expand your reach. Measure results. Get new customers. Reward the ones you have.
-datePublished: '2015-11-22T18:02:35.291Z'
-dateModified: '2015-11-22T18:02:32.027Z'
+datePublished: '2015-11-22T18:05:24.049Z'
+dateModified: '2015-11-22T18:05:20.894Z'
 title: Hometown Value Guide
 author: []
 sourcePath: _posts/2015-11-22-hometown-value-guide.md
@@ -27,6 +27,11 @@ _type: Article
 
 Want to create more new customers and increase loyalty with the from the customers you already have? We provide opportunities to connect with and deliver consumers to your location, or get them to call you, time and time again. Helping local businesses profit using the powerful tools of direct mail and mobile rewards is what the Hometown Value Guide is about. We help to make it easy for you, the business owner, to expand your reach, measure results, get new customers and reward existing clients.
 
-Download savings right to your phone: **[HVG Mobile Rewards][0] (Apple) **
+Download savings right to your phone
+
+**[HVG Mobile Rewards][0] (Apple) **
+
+**[HVG Mobile Rewards][1] (Android)**
 
 [0]: https://itunes.apple.com/us/app/deals-around-town/id1020615756?mt=8
+[1]: https://play.google.com/store/apps/details?id=com.hrd.dat
