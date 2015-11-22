@@ -1,0 +1,28 @@
+name: Hometown Value Guide
+favicon: null
+layout_spectrum: 0.14096605987288058
+typography_spectrum: 0.6490811978001148
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.45131313684396446
+  lightness: 0.007002051221206784
+  saturation: 0.8271565691102296
+  rhythmicContrast: 0.805105245904997
+purpose: []
