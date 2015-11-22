@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Expand your reach. Measure results. Get new customers. Reward the ones you have.
-datePublished: '2015-11-22T17:30:26.062Z'
-dateModified: '2015-11-22T17:29:58.135Z'
+datePublished: '2015-11-22T17:31:43.397Z'
+dateModified: '2015-11-22T17:30:37.752Z'
 title: Hometown Value Guide
 author: []
 authors: []
